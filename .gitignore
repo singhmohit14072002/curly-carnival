@@ -1,6 +1,6 @@
 -DS_store
-svscode/
+.vscode/
 duthentication.js
-node nodules
+node_nodules
 notes/
-s+/e-todo.nd
+s+/e-todo.md 
